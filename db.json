@@ -1,6 +1,21 @@
 {
     "users":[
-
+        {
+            "id":1,
+            "name":"Naresh",
+            "email":"admin@gmail.com",
+            "password":"admin",
+            "role":"ADMIN",
+            "status":"ACTIVE"
+        },
+        {
+            "id":2,
+            "name":"Siva",
+            "email":"siva@gmail.com",
+            "password":"user",
+            "role":"USER",
+            "status":"ACTIVE"
+        }
     ],
     "products":[
 
@@ -20,6 +35,4 @@
     "carts": [
 
     ]
-
-
 }
