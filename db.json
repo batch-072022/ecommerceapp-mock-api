@@ -18,13 +18,33 @@
         }
     ],
     "products":[
-
+        {
+            "id": 1,
+            "title": "Learn Angular",
+            "price": 500,            
+            "image_url": "learn_angular.jpg",
+            "stock": "AVAILABLE",
+            "ratings": 4.76,
+            "category":"BOOK"
+        }
     ],
     "categories":[
-
+        {
+            "id":1,
+            "name":"BOOK"
+        }
     ],
     "accounts": [
-
+        {
+            "id":1,
+            "userId":1,
+            "balance":2000
+        },
+        {
+            "id":2,
+            "userId":2,
+            "balance":5000
+        }
     ],
     "reviews": [
 
