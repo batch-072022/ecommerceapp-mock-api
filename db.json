@@ -57,5 +57,21 @@
     ],
     "carts": [
 
+    ],
+    "coupons":[
+        {
+            "id":1,
+            "code":"DISCOUNT10",
+            "percentage":10,
+            "expiry_date":"30-07-2022",
+            "status":"EXPIRED"
+        },
+        {
+            "id":2,
+            "code":"DISCOUNT20",
+            "percentage":20,
+            "expiry_date":"30-08-2022",
+            "status":"ACTIVE"
+        }   
     ]
 }
